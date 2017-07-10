@@ -1,0 +1,2 @@
+# MuBoKI
+WoW Vanilla Addon
